@@ -32,5 +32,6 @@ public class BonusScore implements GameScore {
         }
         score =( score+(correctCount*bonus) - (failure*incorrectCount) < minScore )? minScore :  score+(correctCount*bonus) - (failure*incorrectCount);
         return score;
+
     }
 }

@@ -42,5 +42,6 @@ public class PowerScore implements GameScore {
         score =( score - (failure*incorrectCount) < minScore )? minScore :  score - (failure*incorrectCount);
         score =( score > maxScore )? maxScore :  score ;
         return score;
+
     }
 }

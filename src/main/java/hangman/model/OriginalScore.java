@@ -32,5 +32,6 @@ public class OriginalScore implements GameScore{
         }
         score =( score - (failure*incorrectCount) < minScore )? minScore :  score - (failure*incorrectCount);
         return score;
+
     }
 }
