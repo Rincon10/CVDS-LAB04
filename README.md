@@ -126,4 +126,6 @@ Incorpore el Contenedor Liviano Guice dentro del proyecto:
     * Utilizar el diccionario francés.
 	* etc...
 * Para lo anterior, [puede basarse en el ejemplo dado como
-  referencia](https://github.com/PDSW-ECI/LightweighContainers_DepenendecyInjectionIntro-WordProcessor).
+  referencia](https://github.com/PDSW-ECI/LightweighContainers_DepenendecyInjectionIntro-WordProcessor). 
+# Tomado de:
+* [Repositorio Original](https://github.com/PDSW-ECI/LigthwayContainer_DependencyInjection_Hangman)
