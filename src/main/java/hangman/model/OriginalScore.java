@@ -8,7 +8,7 @@ package hangman.model;
  * This Class is a type of score, that the game can use
  */
 public class OriginalScore implements GameScore{
-    private int score = 100;
+    private int score ;
     private int failure=10;
     private int minScore=0;
 
@@ -26,6 +26,7 @@ public class OriginalScore implements GameScore{
      */
     @Override
     public int calculateScore(int correctCount, int incorrectCount) throws GameScoreException {
+        score = 100;
         if( correctCount < 0 || incorrectCount <0 ){
             throw new GameScoreException( GameScoreException.NEGATIVE_NUMBERS);
         }

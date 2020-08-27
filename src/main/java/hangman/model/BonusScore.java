@@ -26,6 +26,7 @@ public class BonusScore implements GameScore {
      */
     @Override
     public int calculateScore(int correctCount, int incorrectCount) throws GameScoreException {
+        score = 0;
         if( correctCount < 0 || incorrectCount <0 ) {
             throw new GameScoreException(GameScoreException.NEGATIVE_NUMBERS);
         }
