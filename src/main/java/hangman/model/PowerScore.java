@@ -8,7 +8,8 @@ import java.lang.Math;
  *
  * This Class is a type of score, that the game can use
  */
-public class PowerBonusScore implements GameScore {
+
+public class PowerScore implements GameScore {
     private int score ;
     private int failure= 8;
     private int bonus= 5;
