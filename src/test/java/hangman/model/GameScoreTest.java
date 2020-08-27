@@ -32,7 +32,10 @@ package model;
  *              Number                      Equivalence class                                  Result
  *               1)                          correctCount < 0                       Incorrect/ Throws NEGATIVE_NUMBERS  Exception
  *               2)                         incorrectCount < 0                      Incorrect/ Throws NEGATIVE_NUMBERS  Exception
+ *               3)                  incorrectCount = 0 ^  correctCount>=4                         Correct/ 500
+ *               4)                  incorrectCount >= 0 ^  correctCount=0                         Correct/ 0
+ *               5)                                                                      Correct/  score +(sum(5^correctCount) - incorrectCount*failure )
  *
-
+*/
 public class GameScoreTest {
 }
