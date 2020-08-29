@@ -1,3 +1,41 @@
+# __CVDS - Lab04__
+
+## Contributors
+
+> Camilo Rincón [Rincon10](https://github.com/Rincon10)
+>
+> Leonardo Galeano [Ersocaut](https://github.com/Ersocaut)
+
+## Parte I
+
+### Dependencias
+
+![1](https://github.com/Rincon10/CVDS-LAB4/blob/master/resources/Dependencias.png)
+
+### Pruebas
+
+![2](https://github.com/Rincon10/CVDS-LAB4/blob/master/resources/Pruebas.png)
+
+## Parte II
+
+### Injection implementation
+
+![3](https://github.com/Rincon10/CVDS-LAB4/blob/master/resources/Injection1.png)
+
+![4](https://github.com/Rincon10/CVDS-LAB4/blob/master/resources/Injection2.png)
+
+### Run after Injection
+
+![5](https://github.com/Rincon10/CVDS-LAB4/blob/master/resources/Run1.png)
+
+![6](https://github.com/Rincon10/CVDS-LAB4/blob/master/resources/Run2.png)
+
+![7](https://github.com/Rincon10/CVDS-LAB4/blob/master/resources/Run3.png)
+
+---
+# README del repositorio original
+---
+
 ### Escuela Colombiana de Ingeniería
 
 ### Procesos de Desarrollo de Software
