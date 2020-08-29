@@ -50,7 +50,7 @@ public class SwingProject {
 
     public static GUI createGUIUsingGuice() {
         Injector injector = Guice.createInjector(new HangmanFactoryServices());
-        System.out.println("Pase");
+        //System.out.println("Pase");
         return injector.getInstance(GUI.class);
     }
 
