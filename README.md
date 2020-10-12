@@ -1,11 +1,5 @@
 # __CVDS - Lab04__
 
-## Contributors
-
-> Camilo Rincón [Rincon10](https://github.com/Rincon10)
->
-> Leonardo Galeano [Ersocaut](https://github.com/Ersocaut)
-
 ## Parte I
 
 ### Dependencias
@@ -213,3 +207,9 @@ Incorpore el Contenedor Liviano Guice dentro del proyecto:
   referencia](https://github.com/PDSW-ECI/LightweighContainers_DepenendecyInjectionIntro-WordProcessor). 
 # Tomado de:
 * [Repositorio Original](https://github.com/PDSW-ECI/LigthwayContainer_DependencyInjection_Hangman)
+
+## Contributors
+
+> Camilo Rincón [Rincon10](https://github.com/Rincon10)
+>
+> Leonardo Galeano [Ersocaut](https://github.com/Ersocaut)
